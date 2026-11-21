@@ -18,7 +18,7 @@
 
 <!--section:summary-->
 
-<h1><span class="mark-brand">Minimal CSS Framework</span> <small>for</small> Semantic HTML</h1>
+<h1><span class="mark-brand">Minimal CSS Framework</span> for Semantic HTML</h1>
 
 <big>Blades CSS is a modern, direct fork of [Pico CSS](//picocss.com/docs/maintenance).</big>
 
